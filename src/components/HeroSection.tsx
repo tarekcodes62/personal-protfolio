@@ -118,7 +118,7 @@ export default function HeroSection() {
             </Link>
 
             <Link
-              href="/"
+              href="https://drive.google.com/file/d/1SWUHzC2lg3zMoT4BfUcVX34m8-WWu2E9/view?usp=sharing"
               className="inline-flex items-center justify-center gap-3 rounded-full bg-emerald-500 px-7 py-4 font-bold text-white shadow-lg shadow-emerald-500/20 transition duration-300 hover:-translate-y-1 hover:bg-emerald-400"
             >
               <Download size={22} />
